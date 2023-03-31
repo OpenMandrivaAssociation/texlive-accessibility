@@ -1,6 +1,6 @@
 Name:		texlive-accessibility
 Version:	55777
-Release:	1
+Release:	2
 Summary:	Create tagged and structured PDF files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accessibility
