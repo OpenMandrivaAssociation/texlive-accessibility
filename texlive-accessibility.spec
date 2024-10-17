@@ -3,7 +3,7 @@ Version:	55777
 Release:	2
 Summary:	Create tagged and structured PDF files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accessibility
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/accessibility
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accessibility.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accessibility.doc.r%{version}.tar.xz
